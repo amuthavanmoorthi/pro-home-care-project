@@ -1,0 +1,36 @@
+body {
+    background-color: #b1cfee; 
+}
+.container {
+    max-width: 400px;
+}
+.border {
+    border: 1px solid #ced4da;
+    border-radius: 8px;
+    background-color: #fff;
+}
+.regMaiinCard{
+    margin-top: 10px !important;
+}
+.regcard{
+    background-color: rgba(255, 255, 255, 0.082);
+    border-radius: 10px;
+    width: 400px !important;
+    margin: 20px 20px !important;
+    padding: 15px 20px !important;
+    border: 1px solid rgb(188, 37, 37);
+    box-shadow: 0 0 70px rgba(0, 0, 0);
+}
+.one{
+    border-top-left-radius: .25rem;
+    border-bottom-left-radius: .25rem;
+}
+.reg-bg{
+    background-image: url("https://images.unsplash.com/photo-1511649475669-e288648b2339?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1932&q=80");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 99.2%;
+}
